@@ -1,6 +1,6 @@
 <h1 align="center">
     <img src="public/logo.png" width="256"/><br/>
-    HortusFox
+    TreeLINK GROW
 </h1>
 
 <p align="center">
